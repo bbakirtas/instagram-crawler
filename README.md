@@ -1,3 +1,4 @@
+[![Run on Repl.it](https://repl.it/badge/github/huaying/instagram-crawler)](https://repl.it/github/huaying/instagram-crawler)
 # Instagram Crawler [![Build Status](https://travis-ci.org/huaying/instagram-crawler.svg?branch=master)](https://travis-ci.org/huaying/instagram-crawler)
 
 Below is what you can do with this program:
